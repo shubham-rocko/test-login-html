@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: normal;
+}
+
+ul.nav li {
+  list-style-type: none;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+	 padding: 2.5rem;
+}
+
+.login-gutter{
+    color: #d1d1ff;
+    background: #3d3780;
+    text-align: center;
+    box-shadow: 0 8px 20px 0 rgba(40, 37, 89, 0.6);
+}
+
+.login-title{
+	font-family: Exo;
+    color: #fff
+}
